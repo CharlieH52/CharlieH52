@@ -1,1 +1,1 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=CharlieH52&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D&card_width=640)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=CharlieH52&theme=highcontrast&hide_border=true&mode=weekly&card_width=640)](https://git.io/streak-stats)
