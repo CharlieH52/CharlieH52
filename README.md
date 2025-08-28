@@ -9,13 +9,13 @@
 </div>
 
 ## Index
-1. [About me](#about-me)
-2. [Projects](#projects)  
-2.1 [My favorite personal projects](#my-favorite-personal-projects)  
-2.2 [More Projects](#more-projects)  
-2.3 [Study Projects](#study-repos)
-3. [Professional Experience](#professional-experience)
-4. [Studies](#studies)
+1. [About me](#feelsgood-about-me)
+2. [Projects](#open_file_folder-projects)  
+2.1 [My favorite personal projects](#star2-my-favorite-personal-projects)  
+2.2 [More Projects](#file_folder-more-projects)  
+2.3 [Study Projects](#books-study-repos)
+3. [Professional Experience](#black_nib-professional-experience)
+4. [Studies](#mortar_board-studies)
 
 ## :feelsgood: About me
 My name is Jose Carlos Pérez Gómez. I have 3 years working as a system administrator. 
