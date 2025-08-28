@@ -63,27 +63,34 @@ But I can use many other technologies and I can learn more for new projects.
 - ***[ONE Secret Numer](https://github.com/CharlieH52/one-numero_secreto)***
 
 ## :black_nib: Professional Experience
-<div style="display:flex; justify-content:space-between;">
-    <p><strong>Ayuntamiento de Cuauhtemoc</strong></p>
-    <p><strong>January, 2023 - Current</strong></p>
+<div align="right">
+
+**Ayuntamiento de Cuauhtemoc**  
+***Administrative Assistant***  
+January, 2023 - Current
+
 </div>
 
 Description and Achievements...
 
 ## :mortar_board: Studies
-<div style="display:flex; justify-content:space-between;">
-    <p><strong>Universidad Virtual del Estado de Guanajuato</strong></p>
-    <p><strong>March, 2024 - Current</strong></p>
-</div>
+<div align="right">
 
-**Ingeniería en Sistemas Computacionales**
+**Universidad Virtual del Estado de Guanajuato**  
+***Ingeniería en Sistemas Computacionales***  
+March, 2024 - Current
+
+</div>
 
 Description...  
 
 <hr>
-<div style="display:flex; justify-content:space-between;">
-    <p><strong>Oracle Next Generation</strong></p>
-    <p><strong>July, 2025 - Current</strong></p>
+<div align="right">
+
+**Oracle Next Generation**  
+***Bootcamp***  
+July, 2025 - Current
+
 </div>
 
 Description...
