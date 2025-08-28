@@ -17,14 +17,14 @@
 3. [Professional Experience](#professional-experience)
 4. [Studies](#studies)
 
-## :feelsgood:About me
+## :feelsgood: About me
 My name is Jose Carlos Pérez Gómez. I have 3 years working as a system administrator. 
 
 I'm the eternal student and I'm always looking for new challenges. My  current goal is prove my skills as a developer and my capacity to learn new technologies and knowledge.
 
 Actually my main hobby is coding and solve the essential problems for my personal projects and the current courses.
 
-### :star:This is my favorite stack
+### :star: This is my favorite stack
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -34,7 +34,7 @@ Actually my main hobby is coding and solve the essential problems for my persona
 But I can use many other technologies and I can learn more for new projects.
 </div>
 
-### :wrench:Other technologies and tools 
+### :wrench: Other technologies and tools 
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -43,37 +43,37 @@ But I can use many other technologies and I can learn more for new projects.
 </p>
 
 
-## :open_file_folder:Projects
+## :open_file_folder: Projects
 ### :star2: My favorite personal projects
 
 1. ***[Tech-Sheet Generator](https://github.com/CharlieH52/technical-sheet-app)***
 2. ***[On working...]()***
 
-### :folder:More projects
+### :file_folder: More projects
 - ***[WLAN Password Scanner](https://github.com/CharlieH52/wlan-password-scanner)***
 - ***[IP Fast Config](https://github.com/CharlieH52/ip-fast-config)***
 - ***[Credential Assistant](https://github.com/CharlieH52/credential-assistant)***
 - ***[Printer Assistant](https://github.com/CharlieH52/printer-assistant)***
 
-### :books:Study Repos
+### :books: Study Repos
 - ***[Roadmap.sh](https://github.com/CharlieH52/roadmap.sh)***
 - ***[Manz.dev Challenges](https://github.com/CharlieH52/manz-web-challenges)***
 - ***[ONE Side Prjects](https://github.com/CharlieH52/one-proyectos_adicionales)***
 - ***[ONE Challenge 1](https://github.com/CharlieH52/one-amigo_secreto)***
 - ***[ONE Secret Numer](https://github.com/CharlieH52/one-numero_secreto)***
 
-## :black_nib:Professional Experience
+## :black_nib: Professional Experience
 <div style="display:flex; justify-content:space-between;">
-    <span><p><strong>Ayuntamiento de Cuauhtemoc</strong></p></span>
-    <span><p><strong>January, 2023 - Current</strong></p></span>
+    <p><strong>Ayuntamiento de Cuauhtemoc</strong></p>
+    <p><strong>January, 2023 - Current</strong></p>
 </div>
 
 Description and Achievements...
 
-## :mortar_board:Studies
+## :mortar_board: Studies
 <div style="display:flex; justify-content:space-between;">
-    <span><p><strong>Universidad Virtual del Estado de Guanajuato</strong></p></span>
-    <span><p><strong>March, 2024 - Current</strong></p></span>
+    <p><strong>Universidad Virtual del Estado de Guanajuato</strong></p>
+    <p><strong>March, 2024 - Current</strong></p>
 </div>
 
 **Ingeniería en Sistemas Computacionales**
@@ -82,8 +82,8 @@ Description...
 
 <hr>
 <div style="display:flex; justify-content:space-between;">
-    <span><p><strong>Oracle Next Generation</strong></p></span>
-    <span><p><strong>July, 2025 - Current</strong></p></span>
+    <p><strong>Oracle Next Generation</strong></p>
+    <p><strong>July, 2025 - Current</strong></p>
 </div>
 
 Description...
