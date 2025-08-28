@@ -62,6 +62,8 @@ But I can use many other technologies and I can learn more for new projects.
 - ***[ONE Challenge 1](https://github.com/CharlieH52/one-amigo_secreto)***
 - ***[ONE Secret Numer](https://github.com/CharlieH52/one-numero_secreto)***
 
+<hr>
+
 ## :black_nib: Professional Experience
 <div align="right">
 
@@ -72,6 +74,8 @@ January, 2023 - Current
 </div>
 
 Description and Achievements...
+
+<hr>
 
 ## :mortar_board: Studies
 <div align="right">
@@ -84,7 +88,6 @@ March, 2024 - Current
 
 Description...  
 
-<hr>
 <div align="right">
 
 **Oracle Next Generation**  
