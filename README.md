@@ -8,6 +8,8 @@
 ***Hello!*** I'm Charlie Chan and welcome to my profile.
 </div>
 
+<hr>
+
 ## Index
 1. [About me](#feelsgood-about-me)
 2. [Projects](#open_file_folder-projects)  
@@ -16,6 +18,8 @@
 2.3 [Study Projects](#books-study-repos)
 3. [Professional Experience](#black_nib-professional-experience)
 4. [Studies](#mortar_board-studies)
+
+<hr>
 
 ## :feelsgood: About me
 My name is Jose Carlos Pérez Gómez. I have 3 years working as a system administrator. 
@@ -27,7 +31,7 @@ Actually my main hobby is coding and solve the essential problems for my persona
 ### :star: This is my favorite stack
 
 <div align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=python,mysql,fastapi,html,css,js" />
   </a>
 
@@ -37,11 +41,12 @@ But I can use many other technologies and I can learn more for new projects.
 ### :wrench: Other technologies and tools 
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=git,github,astro" />
   </a>
 </p>
 
+<hr>
 
 ## :open_file_folder: Projects
 ### :star2: My favorite personal projects
@@ -50,6 +55,8 @@ But I can use many other technologies and I can learn more for new projects.
 2. ***[On working...]()***
 
 ### :file_folder: More projects
+
+- ***[MP3 Metadata Editor](https://github.com/CharlieH52/mp3-metadata-editor)***
 - ***[WLAN Password Scanner](https://github.com/CharlieH52/wlan-password-scanner)***
 - ***[IP Fast Config](https://github.com/CharlieH52/ip-fast-config)***
 - ***[Credential Assistant](https://github.com/CharlieH52/credential-assistant)***
@@ -63,6 +70,8 @@ But I can use many other technologies and I can learn more for new projects.
 :link: [Test it: Amigo Secreto](https://charlieh52.github.io/one-amigo_secreto/)
 - ***[ONE Secret Number](https://github.com/CharlieH52/one-numero_secreto)***  
 :link: [Test it: Adivina el número](https://charlieh52.github.io/one-numero_secreto/)
+
+<hr>
 
 ## :black_nib: Professional Experience
 <div align="right">
@@ -86,6 +95,8 @@ I developed various programs for the automation of task and improve regular dail
 My extra responsibilites are:
 - Train the new colleagues, when needed
 - Report bugs and other issues about the leased printers and organizational software to the software and hardware suppliers
+
+<hr>
 
 ## :mortar_board: Studies
 <div align="right">
