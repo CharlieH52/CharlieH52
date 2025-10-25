@@ -42,12 +42,12 @@ But I can use many other technologies and I can learn more for new projects.
 
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git,github,astro,sqlite,gcp,postgresql" />
+    <img src="https://skillicons.dev/icons?i=git,next,react,astro,sqlite,supabase,postgresql" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=md,vscode,linux,vercel,notion,powershell" />
+    <img src="https://skillicons.dev/icons?i=github,md,vscode,linux,vercel,notion,powershell" />
   </a>
 </p>
 
