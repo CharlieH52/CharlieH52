@@ -32,7 +32,7 @@ Actually my main hobby is coding and solve the essential problems for my persona
 
 <div align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python,mysql,django,fastapi,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=typescript,java,python,astro,html,css,js" />
   </a>
 
 But I can use many other technologies and I can learn more for new projects.
@@ -42,7 +42,7 @@ But I can use many other technologies and I can learn more for new projects.
 
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git,next,react,astro,sqlite,supabase,postgresql" />
+    <img src="https://skillicons.dev/icons?i=spring,express,next,git,sqlite,supabase,postgresql" />
   </a>
 </p>
 <p align="center">
