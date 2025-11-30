@@ -42,7 +42,7 @@ But I can use many other technologies and I can learn more for new projects.
 
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=django,spring,express,next,git,sqlite,supabase,postgresql" />
+    <img src="https://skillicons.dev/icons?i=django,fastapi,spring,express,next,git,sqlite,supabase,postgresql" />
   </a>
 </p>
 <p align="center">
