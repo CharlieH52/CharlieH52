@@ -32,22 +32,15 @@ Actually my main hobby is coding and solve the essential problems for my persona
 
 <div align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=python,typescript,java,astro,html,css,js" />
+    <img src="https://skillicons.dev/icons?i=python,java,postgresql,html,css,js" />
   </a>
-
-But I can use many other technologies and I can learn more for new projects.
 </div>
 
 ### :wrench: Other technologies and tools 
 
 <p align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=django,fastapi,spring,express,next,git,sqlite,supabase,postgresql" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github,md,vscode,linux,vercel,notion,powershell" />
+    <img src="https://skillicons.dev/icons?i=django,fastapi,spring,git,sqlite,linux,powershell,bash" />
   </a>
 </p>
 
